@@ -1,6 +1,6 @@
 # cleanup_win10
 
-Just some Powershell scripts used for cleaning-up the Windows 10 Environment
+Some Powershell scripts used for cleaning-up the Windows 10 Environment
 
 **Remove_Cortana.ps1** remove the Cortana app which can't be uninstall via Apps
 
